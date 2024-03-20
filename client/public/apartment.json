@@ -1,0 +1,192 @@
+[
+  {
+    "_id": "1",
+    "title": "Sundarbans Serenity",
+    "location": "Khulna",
+    "from": "2024-04-10",
+    "to": "2024-04-15",
+    "price": 4500,
+    "guests": 3,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "description": "Experience the tranquility of the Sundarbans at Sundarbans Serenity, located in Khulna.",
+    "image": "https://example.com/apartment1.jpg",
+    "host": {
+      "name": "Sara Rahman",
+      "image": "https://example.com/host1.jpg",
+      "email": "sara.rahman@example.com"
+    },
+    "category": "nature"
+  },
+  {
+    "_id": "2",
+    "title": "Rangamati Paradise",
+    "location": "Rangamati",
+    "from": "2024-05-20",
+    "to": "2024-05-25",
+    "price": 6000,
+    "guests": 5,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "description": "Enjoy the picturesque beauty of Rangamati from Rangamati Paradise, a perfect getaway destination.",
+    "image": "https://example.com/apartment2.jpg",
+    "host": {
+      "name": "Ahmed Khan",
+      "image": "https://example.com/host2.jpg",
+      "email": "ahmed.khan@example.com"
+    },
+    "category": "lakefront"
+  },
+  {
+    "_id": "3",
+    "title": "Cox's Bazar Oasis",
+    "location": "Cox's Bazar",
+    "from": "2024-06-05",
+    "to": "2024-06-10",
+    "price": 8000,
+    "guests": 6,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "description": "Experience luxury by the beach at Cox's Bazar Oasis, offering stunning views and modern amenities.",
+    "image": "https://example.com/apartment3.jpg",
+    "host": {
+      "name": "Samantha Ali",
+      "image": "https://example.com/host3.jpg",
+      "email": "samantha.ali@example.com"
+    },
+    "category": "beachfront"
+  },
+  {
+    "_id": "4",
+    "title": "Sylhet Hills Retreat",
+    "location": "Sylhet",
+    "from": "2024-07-15",
+    "to": "2024-07-20",
+    "price": 5500,
+    "guests": 4,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "description": "Escape to the serene hills of Sylhet at Sylhet Hills Retreat, offering a peaceful retreat amidst nature.",
+    "image": "https://example.com/apartment4.jpg",
+    "host": {
+      "name": "Ryan Chowdhury",
+      "image": "https://example.com/host4.jpg",
+      "email": "ryan.chowdhury@example.com"
+    },
+    "category": "Hillside Chalet"
+  },
+  {
+    "_id": "5",
+    "title": "Chittagong City Center",
+    "location": "Chittagong",
+    "from": "2024-08-10",
+    "to": "2024-08-15",
+    "price": 4000,
+    "guests": 3,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "description": "Experience urban living at its best at Chittagong City Center, located in the heart of the city.",
+    "image": "https://example.com/apartment5.jpg",
+    "host": {
+      "name": "Emma Hassan",
+      "image": "https://example.com/host5.jpg",
+      "email": "emma.hassan@example.com"
+    },
+    "category": "City Apartment"
+  },
+  {
+    "_id": "6",
+    "title": "Barisal Riverside Retreat",
+    "location": "Barisal",
+    "from": "2024-09-01",
+    "to": "2024-09-07",
+    "price": 4800,
+    "guests": 4,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "description": "Relax by the riverside at Barisal Riverside Retreat, offering a peaceful escape from the hustle and bustle.",
+    "image": "https://example.com/apartment6.jpg",
+    "host": {
+      "name": "Daniel Rahman",
+      "image": "https://example.com/host6.jpg",
+      "email": "daniel.rahman@example.com"
+    },
+    "category": "Riverside Villa"
+  },
+  {
+    "_id": "7",
+    "title": "Dhaka Urban Oasis",
+    "location": "Dhaka",
+    "from": "2024-10-10",
+    "to": "2024-10-15",
+    "price": 5500,
+    "guests": 4,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "description": "Escape the city chaos at Dhaka Urban Oasis, a tranquil haven in the heart of the bustling capital.",
+    "image": "https://example.com/apartment7.jpg",
+    "host": {
+      "name": "Sarah Ahmed",
+      "image": "https://example.com/host7.jpg",
+      "email": "sarah.ahmed@example.com"
+    },
+    "category": "City Retreat"
+  },
+  {
+    "_id": "8",
+    "title": "Rajshahi Royal Residency",
+    "location": "Rajshahi",
+    "from": "2024-11-01",
+    "to": "2024-11-07",
+    "price": 5000,
+    "guests": 3,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "description": "Experience luxury living at Rajshahi Royal Residency, offering regal comfort and elegance.",
+    "image": "https://example.com/apartment8.jpg",
+    "host": {
+      "name": "Alexis Khan",
+      "image": "https://example.com/host8.jpg",
+      "email": "alexis.khan@example.com"
+    },
+    "category": "Royal Suite"
+  },
+  {
+    "_id": "9",
+    "title": "Mymensingh Garden Retreat",
+    "location": "Mymensingh",
+    "from": "2024-12-05",
+    "to": "2024-12-10",
+    "price": 4200,
+    "guests": 3,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "description": "Indulge in the lush greenery of Mymensingh at Mymensingh Garden Retreat, a perfect getaway for nature lovers.",
+    "image": "https://example.com/apartment9.jpg",
+    "host": {
+      "name": "Jessica Chowdhury",
+      "image": "https://example.com/host9.jpg",
+      "email": "jessica.chowdhury@example.com"
+    },
+    "category": "Garden Hideaway"
+  },
+  {
+    "_id": "10",
+    "title": "Jessore Countryside Villa",
+    "location": "Jessore",
+    "from": "2025-01-10",
+    "to": "2025-01-15",
+    "price": 3800,
+    "guests": 3,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "description": "Experience the rustic charm of the countryside at Jessore Countryside Villa, offering peace and serenity.",
+    "image": "https://example.com/apartment10.jpg",
+    "host": {
+      "name": "William Rahman",
+      "image": "https://example.com/host10.jpg",
+      "email": "william.rahman@example.com"
+    },
+    "category": "Countryside Retreat"
+  }
+]
