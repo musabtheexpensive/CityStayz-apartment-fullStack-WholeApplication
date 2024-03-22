@@ -8,10 +8,10 @@ const Navbar = () => {
       <div className="py-4 ">
         <Container>
           <div className="flex flex-row  items-center justify-between gap-3 md:gap-0">
-            {/* Logo */}
-            <Logo></Logo>
-
             <div className="flex flex-row  items-center justify-between gap-3 md:gap-0">
+              {/* Logo */}
+              <Logo></Logo>
+              
               <ul className="hidden items-center justify-between gap-10 md:flex">
                 <li className="group flex  cursor-pointer flex-col">
                   Home
