@@ -41,7 +41,7 @@ const MenuDropdown = () => {
           <div className="flex flex-col cursor-pointer">
             <Link
               to="/"
-              className="block md:hidden px-4 py-3 hover:bg-neutral-100 transition font-semibold"
+              className="block px-4 py-3 hover:bg-neutral-100 transition font-semibold"
             >
               Home
             </Link>
