@@ -60,7 +60,7 @@ const Login = () => {
                   required
                 />
                 <span
-                  className="absolute flex justify-end mt-12 ml-60 "
+                  className="absolute flex justify-end mt-12 ml-60 lg:ml-72 "
                   onClick={() => setShowPassword(!showPassword)}
                 >
                   {showPassword ? <FaEyeSlash></FaEyeSlash> : <FaEye></FaEye>}
