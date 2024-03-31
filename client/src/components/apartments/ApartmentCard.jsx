@@ -1,5 +1,5 @@
 
-const ApartmentCard = () => {
+const Card = () => {
     return (
         <div>
             card
@@ -7,4 +7,4 @@ const ApartmentCard = () => {
     );
 };
 
-export default ApartmentCard;
+export default Card;
