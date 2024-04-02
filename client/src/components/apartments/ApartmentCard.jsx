@@ -23,7 +23,7 @@ const ApartmentCard = ({ apartment }) => {
             </svg>
           </div>
           <button className="bg-[#0095FF] hover:bg-[#0095FF]/90 duration-200 text-white font-medium px-3 py-1 rounded-xl">
-            30% off
+            40% off
           </button>
         </div>
         <img
