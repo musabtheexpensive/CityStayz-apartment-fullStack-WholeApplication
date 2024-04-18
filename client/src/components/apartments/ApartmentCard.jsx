@@ -1,6 +1,6 @@
 const ApartmentCard = ({ apartment }) => {
   return (
-    <div className="px-4 py-8 shadow-lg max-w-[350px] font-sans rounded-xl space-y-6 my-5 mx-auto bg-white">
+    <div className="px-4 py-8 max-w-[350px] font-sans rounded-xl space-y-6 my-5 mx-auto">
       <div className="flex justify-center w-full h-48 lg:h-[280px] relative">
         <div className="flex justify-between items-center left-4 right-4 top-4 absolute">
           <div className="flex items-center">
